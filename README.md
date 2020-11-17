@@ -4,3 +4,5 @@ Consist of a complete solution of all 3 modules.
 2nd Module : Provide recommendations, comparisions & Visualization.(Using Excel or Python Libraries)
 3rd Module : Dashboard Building(Using Tableau or Power BI)
 Machine Learning Tactics involved
+Used PowerBI Python Tableau
+Helped KPMG to entertain the behaviour of its customers
